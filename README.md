@@ -7,6 +7,7 @@ Feel free to take a look at my EFI for reference on your soon-to-be hack!
 
 # Version
 __OpenCore v0.9.3__
+__SMBIOS iMac Pro 1,1__
 
 Supports
 
