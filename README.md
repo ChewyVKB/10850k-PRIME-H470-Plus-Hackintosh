@@ -1,6 +1,7 @@
 # 10850k-PRIME-H470-Plus-Hackintosh
+![VenturaWorking](https://github.com/ChewyVKB/10850k-PRIME-H470-Plus-Hackintosh/assets/68656925/24ef1224-2346-4163-90ea-1dffc94fbe94)
 
-Hey everyone! I've managed to build a pretty stable hack using an 
+Hey everyone! I've managed to build a pretty stable hack using an Intel
 10850k on an Asus PRIME H470-Plus with an RX 580
 
 Feel free to take a look at my EFI for reference on your soon-to-be hack!
